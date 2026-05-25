@@ -88,78 +88,7 @@ const cars = [
         image: "./images/Car7.jpg"
     },
 
-    {
-        name: "Chevrolet Camaro",
-        brand: "Chevrolet",
-        type: "Sports",
-        price: 210,
-        rating: 4.8,
-        seats: "4 Seats",
-        transmission: "Automatic",
-        fuel: "Gasoline",
-        image: "./images/Car8.jpg"
-    },
-
-    {
-        name: "Porsche Panamera",
-        brand: "Porsche",
-        type: "Luxury",
-        price: 280,
-        rating: 4.9,
-        seats: "4 Seats",
-        transmission: "Automatic",
-        fuel: "Gasoline",
-        image: "./images/Car9.jpg"
-    },
-
-    {
-        name: "BMW M5",
-        brand: "BMW",
-        type: "Sedan",
-        price: 260,
-        rating: 4.9,
-        seats: "5 Seats",
-        transmission: "Automatic",
-        fuel: "Petrol",
-        image: "./images/Car10.jpg"
-    },
-
-    {
-        name: "Lamborghini Huracan",
-        brand: "Lamborghini",
-        type: "Sports",
-        price: 450,
-        rating: 5.0,
-        seats: "2 Seats",
-        transmission: "Automatic",
-        fuel: "Gasoline",
-        image: "./images/Car11.jpg"
-    },
-
-    {
-        name: "BMW M4 Coupe",
-        brand: "BMW",
-        type: "Sports",
-        price: 240,
-        rating: 4.8,
-        seats: "4 Seats",
-        transmission: "Automatic",
-        fuel: "Petrol",
-        image: "./images/Car12.jpg"
-    },
-
-    {
-        name: "BMW M4 Competition",
-        brand: "BMW",
-        type: "Sports",
-        price: 275,
-        rating: 4.9,
-        seats: "4 Seats",
-        transmission: "Automatic",
-        fuel: "Petrol",
-        image: "./images/Car13.jpg"
-    }
-
+   
 ];
 
 
